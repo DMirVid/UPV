@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=polfact
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=polyW
+comment10.target=Polynomial\ makeWPD(Polynomial)
+comment11.params=expr\ strmod\ type
+comment11.target=java.lang.String\ startCalc(java.lang.String,\ java.lang.String,\ int)
+comment11.text=type\ \=\ 0\:\ factor\ expression,\ type\ \=\ 1\:\ just\ compute\ expression
+comment12.params=
+comment12.target=void\ run()
+comment13.params=
+comment13.target=java.lang.String\ resultCalc()
+comment2.params=
+comment2.target=void\ init()
+comment3.params=texto
+comment3.target=void\ w(java.lang.String)
+comment4.params=inputPoly
+comment4.target=void\ factor(Polynomial)
+comment5.params=poly\ exp
+comment5.target=Polynomial\ polyPower(Polynomial,\ java.math.BigInteger)
+comment6.params=
+comment6.target=Polynomial\ removeMultiFactor()
+comment7.params=polyF
+comment7.target=void\ irreducibleFactor(Polynomial)
+comment7.text=Get\ irreducible\ factors\ of\ degree\ deg
+comment8.params=
+comment8.target=void\ makeZpowerPminusZ()
+comment9.params=
+comment9.target=void\ raiseZpowerPminusZ()
+numComments=14

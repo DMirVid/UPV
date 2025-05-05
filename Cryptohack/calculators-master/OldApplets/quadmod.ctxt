@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=quadmod
+comment1.params=texto
+comment1.target=void\ w(java.lang.String)
+comment10.params=
+comment10.target=void\ run()
+comment11.params=
+comment11.target=void\ SolveEquation()
+comment2.params=num\ str\ t
+comment2.target=byte\ Show(java.math.BigInteger,\ java.lang.String,\ byte)
+comment3.params=num\ t
+comment3.target=void\ Show1(java.math.BigInteger,\ byte)
+comment4.params=Nro
+comment4.target=java.math.BigInteger\ fnMod(int)
+comment5.params=value
+comment5.target=void\ Solution(java.math.BigInteger)
+comment6.params=
+comment6.target=void\ init()
+comment7.params=nbr
+comment7.target=java.math.BigInteger\ value(java.lang.String)
+comment8.params=valA\ valB\ valC\ valN
+comment8.target=java.lang.String\ startCalc(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ resultCalc()
+numComments=12

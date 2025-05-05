@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=fraccont
+comment1.params=texto
+comment1.target=void\ w(java.lang.String)
+comment2.params=nbr
+comment2.target=java.math.BigInteger\ value(java.lang.String)
+comment3.params=num\ delta\ den
+comment3.target=java.lang.String\ startCalc(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ ContFrac()
+comment5.params=num\ den
+comment5.target=void\ ShowRational(java.math.BigInteger,\ java.math.BigInteger)
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=sumcubos
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ destroy()
+comment3.params=e
+comment3.target=boolean\ handleEvent(java.awt.Event)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ ShowPane()
+comment6.params=value
+comment6.target=void\ addStringToLabel(java.lang.String)
+comment7.params=N
+comment7.target=void\ insertBigNbr(java.math.BigInteger)
+comment8.params=
+comment8.target=java.lang.String\ getTextFromPane()
+comment9.params=digits
+comment9.target=void\ setDigits(int)
+numComments=10

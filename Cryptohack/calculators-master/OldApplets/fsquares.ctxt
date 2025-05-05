@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=fsquares
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=value\ nbrLoops
+comment10.target=java.math.BigInteger\ pollardBrentRho(java.math.BigInteger,\ int)
+comment11.params=
+comment11.target=java.lang.String\ getTextFromPane()
+comment12.params=digits
+comment12.target=void\ setDigits(int)
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ destroy()
+comment4.params=e
+comment4.target=boolean\ handleEvent(java.awt.Event)
+comment5.params=
+comment5.target=void\ run()
+comment6.params=
+comment6.target=void\ ShowPane()
+comment7.params=value
+comment7.target=void\ addStringToLabel(java.lang.String)
+comment8.params=N
+comment8.target=void\ insertBigNbr(java.math.BigInteger)
+comment9.params=value
+comment9.target=java.math.BigInteger\ squareRoot(java.math.BigInteger)
+numComments=13

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=expression
+comment1.params=expr\ type\ ExpressionResult
+comment1.target=int\ ComputeExpression(java.lang.String,\ int,\ java.math.BigInteger[])
+comment2.params=NbrMod\ currentPrime
+comment2.target=int\ modInv(int,\ int)
+comment3.params=val
+comment3.target=java.math.BigInteger\ partition(int)
+comment4.params=stackIndex\ stackValues\ stackOperators
+comment4.target=int\ ComputeSubExpr(int,\ java.math.BigInteger[],\ int[])
+numComments=5
